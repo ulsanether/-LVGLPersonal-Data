@@ -1,11 +1,12 @@
-# -LVGLPersonal-Data
-스퀘어 라인과 LVGL 설정 자료들. 
+### -LVGLPersonal-Data
+
+# 스퀘어 라인과 LVGL 설정 자료들. 
 
 
 ---
 
 
-#스퀘어 라인에서 한글 폰트 설정 
+# 스퀘어 라인에서 한글 폰트 설정 
 
 ![KOREAN](FontSET.png)
 
