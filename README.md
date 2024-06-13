@@ -1,2 +1,2 @@
 # -LVGLPersonal-Data
-LVGL 설정 자료드 ㄹ
+스퀘어 라인과 LVGL 설정 자료들. 
