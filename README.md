@@ -8,6 +8,6 @@
 
 ![KOREAN](FontSET.png)
 
- Range : 0x020-0x07F,  0xAC00-0xD7AF
- Letters : Korean
+! Range : 0x020-0x07F,  0xAC00-0xD7AF
+! Letters : Korean
  
