@@ -15,7 +15,7 @@ lv_obj_t * ui_Screen1;
 void ui_event_Button1(lv_event_t * e);
 lv_obj_t * ui_Button1;
 lv_obj_t * ui_Label1;
-lv_obj_t * ui_TabView1;
+lv_obj_t * ui_Keyboard1;
 
 
 // SCREEN: ui_Screen2
@@ -24,7 +24,7 @@ lv_obj_t * ui_Screen2;
 void ui_event_Button2(lv_event_t * e);
 lv_obj_t * ui_Button2;
 lv_obj_t * ui_Label2;
-lv_obj_t * ui_Roller1;
+lv_obj_t * ui_Chart1;
 lv_obj_t * ui____initial_actions0;
 
 ///////////////////// TEST LVGL SETTINGS ////////////////////
