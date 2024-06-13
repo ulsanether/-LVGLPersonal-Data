@@ -3,6 +3,9 @@
 
 # 1.WT32-SC01
 
+
+![WT32-SC01](FontSET.png)
+
 - Similiar display from DFRobot uses ILI9488 (not ST7796S)
 - Graphics & Touch Driver : [LovyanGFX](https://github.com/lovyan03/LovyanGFX)
 - UI/Widgets : [LVGL8.3.6](https://github.com/lvgl/lvgl)
