@@ -25,4 +25,5 @@
 
 
 ### 추천하는 링크들
+1.lvgl과 피그마를 이용한 디자인 적용 유튜버
 https://www.youtube.com/watch?v=VwGUaCZ3xvE
