@@ -19,13 +19,7 @@ Contributors:
 
 #include <stdint.h>
 
-#if __has_include("alloca.h")
-#include <alloca.h>
-#else
-#include <malloc.h>
-#define alloca _alloca
-#endif
-
+#include "../internal/alloca.h"
 #include "misc/enum.hpp"
 #include "misc/colortype.hpp"
 #include "misc/pixelcopy.hpp"
@@ -138,7 +132,7 @@ namespace lgfx
     virtual void writeImageARGB(uint_fast16_t x, uint_fast16_t y, uint_fast16_t w, uint_fast16_t h, pixelcopy_t* param) = 0;
     virtual void writePixels(pixelcopy_t* param, uint32_t len, bool use_dma) = 0;
 
-    virtual uint32_t readCommand(uint_fast8_t cmd, uint_fast8_t index = 0, uint_fast8_t length = 4) = 0;
+    virtual uint32_t readCommand(uint_fast16_t cmd, uint_fast8_t index = 0, uint_fast8_t length = 4) = 0;
     virtual uint32_t readData(uint_fast8_t index = 0, uint_fast8_t length = 4) = 0;
     virtual void readRect(uint_fast16_t x, uint_fast16_t y, uint_fast16_t w, uint_fast16_t h, void* dst, pixelcopy_t* param) = 0;
     virtual void copyRect(uint_fast16_t dst_x, uint_fast16_t dst_y, uint_fast16_t w, uint_fast16_t h, uint_fast16_t src_x, uint_fast16_t src_y) = 0;
@@ -157,7 +151,17 @@ namespace lgfx
     {
       auto ye = y + h;
       auto buf = (RGBColor*)alloca(w * sizeof(RGBColor));
+#pragma GCC diagnostic push
+#if defined(__has_warning)
+#if __has_warning("-Wmaybe-uninitialized")
+#pragma GCC diagnostic ignored "-Wmaybe-uninitialized"
+#endif
+#else
+#pragma GCC diagnostic ignored "-Wmaybe-uninitialized"
+#endif
+      /// Not actually used uninitialized. Just grabbing a copy of the pointer before we start the loop that fills it.
       pixelcopy_t pc_write(buf    ,_write_depth, RGBColor::depth, false);
+#pragma GCC diagnostic pop
       pixelcopy_t pc_read( nullptr, RGBColor::depth, _read_depth, false);
       startWrite();
       do
