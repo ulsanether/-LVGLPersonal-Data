@@ -1,0 +1,375 @@
+{
+  "guid": "GUID18381066-704066S7173194",
+  "deepid": -726380038,
+  "locked": false,
+  "properties": [
+    {
+      "nid": -625315307,
+      "strtype": "OBJECT/Name",
+      "strval": "Checkbox1",
+      "InheritedType": 10
+    },
+    {
+      "nid": 1843267928,
+      "strtype": "OBJECT/Layout",
+      "InheritedType": 1
+    },
+    {
+      "Flow": 0,
+      "Wrap": false,
+      "Reversed": false,
+      "MainAlignment": 0,
+      "CrossAlignment": 0,
+      "TrackAlignment": 0,
+      "LayoutType": 0,
+      "nid": 456228957,
+      "strtype": "OBJECT/Layout_type",
+      "strval": "No_layout",
+      "InheritedType": 13
+    },
+    {
+      "nid": 1776945531,
+      "strtype": "OBJECT/Transform",
+      "InheritedType": 1
+    },
+    {
+      "nid": -1866744371,
+      "flags": 17,
+      "strtype": "OBJECT/Position",
+      "intarray": [
+        -86,
+        71
+      ],
+      "InheritedType": 7
+    },
+    {
+      "nid": -450943809,
+      "flags": 51,
+      "strtype": "OBJECT/Size",
+      "intarray": [
+        1,
+        1
+      ],
+      "InheritedType": 7
+    },
+    {
+      "nid": -81353539,
+      "strtype": "OBJECT/Align",
+      "strval": "CENTER",
+      "InheritedType": 3
+    },
+    {
+      "nid": 1974412694,
+      "strtype": "OBJECT/Flags",
+      "InheritedType": 1
+    },
+    {
+      "nid": -1239587803,
+      "strtype": "OBJECT/Hidden",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1821415953,
+      "strtype": "OBJECT/Clickable",
+      "strval": "True",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1499370572,
+      "strtype": "OBJECT/Press_lock",
+      "strval": "True",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1809497457,
+      "strtype": "OBJECT/Click_focusable",
+      "strval": "True",
+      "InheritedType": 2
+    },
+    {
+      "nid": 795317326,
+      "strtype": "OBJECT/Ignore_layout",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1419552998,
+      "strtype": "OBJECT/Floating",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1719801791,
+      "strtype": "OBJECT/Overflow_visible",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1766375665,
+      "strtype": "OBJECT/Flex_in_new_track",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": 929038652,
+      "strtype": "OBJECT/Event_bubble",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": 322106306,
+      "strtype": "OBJECT/Gesture_bubble",
+      "strval": "True",
+      "InheritedType": 2
+    },
+    {
+      "nid": -2119720901,
+      "strtype": "OBJECT/Snappable",
+      "strval": "True",
+      "InheritedType": 2
+    },
+    {
+      "nid": 1525075122,
+      "strtype": "OBJECT/Scroll_on_focus",
+      "strval": "True",
+      "InheritedType": 2
+    },
+    {
+      "nid": -48257925,
+      "strtype": "OBJECT/Scroll_with_arrow",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1424763998,
+      "strtype": "OBJECT/States",
+      "InheritedType": 1
+    },
+    {
+      "nid": -1156241042,
+      "strtype": "OBJECT/Checked",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1622840728,
+      "strtype": "OBJECT/Disabled",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": 1499763574,
+      "strtype": "OBJECT/Focused",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": 24192537,
+      "strtype": "OBJECT/Pressed",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": 435249787,
+      "strtype": "OBJECT/Edited",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": 1500692940,
+      "strtype": "OBJECT/User_1",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": -1649977959,
+      "strtype": "OBJECT/User_2",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": 297017297,
+      "strtype": "OBJECT/User_3",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": -2001072590,
+      "strtype": "OBJECT/User_4",
+      "strval": "False",
+      "InheritedType": 2
+    },
+    {
+      "nid": 1510158679,
+      "strtype": "CHECKBOX/Checkbox",
+      "InheritedType": 1
+    },
+    {
+      "nid": -326733447,
+      "strtype": "CHECKBOX/Title",
+      "strval": "Checkbox",
+      "InheritedType": 10
+    },
+    {
+      "part": "lv.PART.MAIN",
+      "childs": [],
+      "nid": -700349891,
+      "strtype": "CHECKBOX/Style_main",
+      "strval": "lv.PART.MAIN, Text",
+      "InheritedType": 11
+    },
+    {
+      "part": "lv.PART.INDICATOR",
+      "childs": [],
+      "nid": 397647433,
+      "strtype": "CHECKBOX/Style_bullet",
+      "strval": "lv.PART.INDICATOR, Rectangle, Pad",
+      "InheritedType": 11
+    },
+    {
+      "disabled": false,
+      "nid": 209671277,
+      "strtype": "_event/EventHandler",
+      "strval": "CHECKED(VALUE_CHANGED)",
+      "childs": [
+        {
+          "nid": 1705870658,
+          "strtype": "_event/name",
+          "strval": "Event3",
+          "InheritedType": 10
+        },
+        {
+          "nid": -409419812,
+          "strtype": "_event/condition_C",
+          "strval": "",
+          "InheritedType": 10
+        },
+        {
+          "nid": -819990515,
+          "strtype": "_event/condition_P",
+          "strval": "",
+          "InheritedType": 10
+        },
+        {
+          "nid": -1714776952,
+          "strtype": "_event/action",
+          "strval": "MODIFY FLAG",
+          "childs": [
+            {
+              "nid": 589163763,
+              "strtype": "MODIFY FLAG/Name",
+              "strval": "MODIFY FLAG",
+              "InheritedType": 10
+            },
+            {
+              "nid": -1535413578,
+              "strtype": "MODIFY FLAG/Call",
+              "strval": "ModifyFlag( <{Object}>, lv.obj.FLAG.<{Flag}>, \"<{Action}>\")",
+              "InheritedType": 10
+            },
+            {
+              "nid": 2103585567,
+              "strtype": "MODIFY FLAG/CallC",
+              "strval": "_ui_flag_modify( <{Object}>, LV_OBJ_FLAG_<{Flag}>, _UI_MODIFY_FLAG_<{Action}>);",
+              "InheritedType": 10
+            },
+            {
+              "nid": 187784246,
+              "strtype": "MODIFY FLAG/Object",
+              "strval": "GUID897074-646648S1133193",
+              "InheritedType": 9
+            },
+            {
+              "nid": -1012326733,
+              "strtype": "MODIFY FLAG/Flag",
+              "strval": "HIDDEN",
+              "InheritedType": 3
+            },
+            {
+              "nid": -2015006766,
+              "strtype": "MODIFY FLAG/Action",
+              "strval": "REMOVE",
+              "InheritedType": 3
+            }
+          ],
+          "InheritedType": 10
+        }
+      ],
+      "InheritedType": 4
+    },
+    {
+      "disabled": false,
+      "nid": 1416577600,
+      "strtype": "_event/EventHandler",
+      "strval": "UNCHECKED(VALUE_CHANGED)",
+      "childs": [
+        {
+          "nid": -356077200,
+          "strtype": "_event/name",
+          "strval": "Event4",
+          "InheritedType": 10
+        },
+        {
+          "nid": -1855275875,
+          "strtype": "_event/condition_C",
+          "strval": "",
+          "InheritedType": 10
+        },
+        {
+          "nid": 2067075305,
+          "strtype": "_event/condition_P",
+          "strval": "",
+          "InheritedType": 10
+        },
+        {
+          "nid": -894054914,
+          "strtype": "_event/action",
+          "strval": "MODIFY FLAG",
+          "childs": [
+            {
+              "nid": -1158533374,
+              "strtype": "MODIFY FLAG/Name",
+              "strval": "MODIFY FLAG",
+              "InheritedType": 10
+            },
+            {
+              "nid": -1459418858,
+              "strtype": "MODIFY FLAG/Call",
+              "strval": "ModifyFlag( <{Object}>, lv.obj.FLAG.<{Flag}>, \"<{Action}>\")",
+              "InheritedType": 10
+            },
+            {
+              "nid": 1011835274,
+              "strtype": "MODIFY FLAG/CallC",
+              "strval": "_ui_flag_modify( <{Object}>, LV_OBJ_FLAG_<{Flag}>, _UI_MODIFY_FLAG_<{Action}>);",
+              "InheritedType": 10
+            },
+            {
+              "nid": 1644295483,
+              "strtype": "MODIFY FLAG/Object",
+              "strval": "GUID897074-646648S1133193",
+              "InheritedType": 9
+            },
+            {
+              "nid": -12838736,
+              "strtype": "MODIFY FLAG/Flag",
+              "strval": "HIDDEN",
+              "InheritedType": 3
+            },
+            {
+              "nid": -2083232659,
+              "strtype": "MODIFY FLAG/Action",
+              "strval": "ADD",
+              "InheritedType": 3
+            }
+          ],
+          "InheritedType": 10
+        }
+      ],
+      "InheritedType": 4
+    }
+  ],
+  "saved_objtypeKey": "CHECKBOX",
+  "tree_closed": true
+}
