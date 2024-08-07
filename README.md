@@ -11,7 +11,10 @@
 ---
 
 ## 2.보드들 (/boards)
+
 esp32 : WT32_SC01 (Plus아님)
+
+
 stm32 : STM32F429I-DISC1
 
 
