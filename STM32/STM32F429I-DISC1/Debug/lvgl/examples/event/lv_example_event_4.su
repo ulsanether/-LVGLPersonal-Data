@@ -1,0 +1,6 @@
+../lvgl/examples/event/../../src/hal/../draw/../misc/lv_color.h:608:26:lv_color_hex	24	static
+../lvgl/examples/event/../../src/hal/../draw/sw/../../core/lv_obj_pos.h:199:20:lv_obj_center	16	static
+../lvgl/examples/event/../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/event/lv_example_event_4.c:8:13:timer_cb	16	static
+../lvgl/examples/event/lv_example_event_4.c:18:13:event_cb	96	static
+../lvgl/examples/event/lv_example_event_4.c:47:6:lv_example_event_4	16	static

@@ -1,0 +1,10 @@
+../lvgl/examples/widgets/img/../../../src/misc/lv_anim.h:127:20:lv_anim_set_var	16	static
+../lvgl/examples/widgets/img/../../../src/misc/lv_anim.h:139:20:lv_anim_set_exec_cb	16	static
+../lvgl/examples/widgets/img/../../../src/misc/lv_anim.h:149:20:lv_anim_set_time	16	static
+../lvgl/examples/widgets/img/../../../src/misc/lv_anim.h:170:20:lv_anim_set_values	24	static
+../lvgl/examples/widgets/img/../../../src/misc/lv_anim.h:248:20:lv_anim_set_playback_time	16	static
+../lvgl/examples/widgets/img/../../../src/misc/lv_anim.h:268:20:lv_anim_set_repeat_count	16	static
+../lvgl/examples/widgets/img/../../../src/core/lv_disp.h:184:26:lv_scr_act	8	static
+../lvgl/examples/widgets/img/lv_example_img_3.c:4:13:set_angle	16	static
+../lvgl/examples/widgets/img/lv_example_img_3.c:9:13:set_zoom	16	static
+../lvgl/examples/widgets/img/lv_example_img_3.c:18:6:lv_example_img_3	88	static
