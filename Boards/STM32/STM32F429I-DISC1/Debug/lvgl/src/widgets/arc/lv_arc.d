@@ -2,7 +2,7 @@ lvgl/src/widgets/arc/lv_arc.o: ../lvgl/src/widgets/arc/lv_arc.c \
  ../lvgl/src/widgets/arc/lv_arc.h \
  ../lvgl/src/widgets/arc/../../lv_conf_internal.h \
  ../lvgl/src/widgets/arc/../../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/widgets/arc/../../core/lv_obj.h \
  ../lvgl/src/widgets/arc/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/arc/../../core/../misc/lv_style.h \
@@ -93,7 +93,7 @@ lvgl/src/widgets/arc/lv_arc.o: ../lvgl/src/widgets/arc/lv_arc.c \
 ../lvgl/src/widgets/arc/lv_arc.h:
 ../lvgl/src/widgets/arc/../../lv_conf_internal.h:
 ../lvgl/src/widgets/arc/../../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/widgets/arc/../../core/lv_obj.h:
 ../lvgl/src/widgets/arc/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/arc/../../core/../misc/lv_style.h:

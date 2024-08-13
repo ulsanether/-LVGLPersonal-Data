@@ -5,7 +5,7 @@ lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_2.o: \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_log.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_types.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_timer.h \
  ../lvgl/examples/libs/ffmpeg/../../../src/misc/../hal/lv_hal_tick.h \
@@ -279,7 +279,7 @@ lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_2.o: \
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_log.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_types.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/lv_timer.h:
 ../lvgl/examples/libs/ffmpeg/../../../src/misc/../hal/lv_hal_tick.h:

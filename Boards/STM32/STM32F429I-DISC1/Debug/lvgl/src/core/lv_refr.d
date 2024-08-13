@@ -2,7 +2,7 @@ lvgl/src/core/lv_refr.o: ../lvgl/src/core/lv_refr.c \
  ../lvgl/src/core/lv_refr.h ../lvgl/src/core/lv_obj.h \
  ../lvgl/src/core/../lv_conf_internal.h \
  ../lvgl/src/core/../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/core/../misc/lv_style.h \
  ../lvgl/src/core/../misc/../font/lv_font.h \
  ../lvgl/src/core/../misc/../font/../lv_conf_internal.h \
@@ -78,12 +78,19 @@ lvgl/src/core/lv_refr.o: ../lvgl/src/core/lv_refr.c \
  ../lvgl/src/core/../font/lv_font_fmt_txt.h \
  ../lvgl/src/core/../font/lv_font.h \
  ../lvgl/src/core/../others/snapshot/lv_snapshot.h \
- ../lvgl/src/core/../others/snapshot/../../core/lv_obj.h
+ ../lvgl/src/core/../others/snapshot/../../core/lv_obj.h \
+ ../lvgl/src/core/../widgets/label/lv_label.h \
+ ../lvgl/src/core/../widgets/label/../../lv_conf_internal.h \
+ ../lvgl/src/core/../widgets/label/../../core/lv_obj.h \
+ ../lvgl/src/core/../widgets/label/../../font/lv_font.h \
+ ../lvgl/src/core/../widgets/label/../../font/lv_symbol_def.h \
+ ../lvgl/src/core/../widgets/label/../../misc/lv_txt.h \
+ ../lvgl/src/core/../widgets/label/../../draw/lv_draw.h
 ../lvgl/src/core/lv_refr.h:
 ../lvgl/src/core/lv_obj.h:
 ../lvgl/src/core/../lv_conf_internal.h:
 ../lvgl/src/core/../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/core/../misc/lv_style.h:
 ../lvgl/src/core/../misc/../font/lv_font.h:
 ../lvgl/src/core/../misc/../font/../lv_conf_internal.h:
@@ -180,3 +187,10 @@ C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
 ../lvgl/src/core/../font/lv_font.h:
 ../lvgl/src/core/../others/snapshot/lv_snapshot.h:
 ../lvgl/src/core/../others/snapshot/../../core/lv_obj.h:
+../lvgl/src/core/../widgets/label/lv_label.h:
+../lvgl/src/core/../widgets/label/../../lv_conf_internal.h:
+../lvgl/src/core/../widgets/label/../../core/lv_obj.h:
+../lvgl/src/core/../widgets/label/../../font/lv_font.h:
+../lvgl/src/core/../widgets/label/../../font/lv_symbol_def.h:
+../lvgl/src/core/../widgets/label/../../misc/lv_txt.h:
+../lvgl/src/core/../widgets/label/../../draw/lv_draw.h:

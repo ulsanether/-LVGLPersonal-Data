@@ -4,7 +4,7 @@ lvgl/src/draw/sw/lv_draw_sw_img.o: ../lvgl/src/draw/sw/lv_draw_sw_img.c \
  ../lvgl/src/draw/sw/../../misc/lv_area.h \
  ../lvgl/src/draw/sw/../../misc/../lv_conf_internal.h \
  ../lvgl/src/draw/sw/../../misc/../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/draw/sw/../../misc/lv_color.h \
  ../lvgl/src/draw/sw/../../misc/lv_assert.h \
  ../lvgl/src/draw/sw/../../misc/lv_log.h \
@@ -97,7 +97,7 @@ lvgl/src/draw/sw/lv_draw_sw_img.o: ../lvgl/src/draw/sw/lv_draw_sw_img.c \
 ../lvgl/src/draw/sw/../../misc/lv_area.h:
 ../lvgl/src/draw/sw/../../misc/../lv_conf_internal.h:
 ../lvgl/src/draw/sw/../../misc/../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/draw/sw/../../misc/lv_color.h:
 ../lvgl/src/draw/sw/../../misc/lv_assert.h:
 ../lvgl/src/draw/sw/../../misc/lv_log.h:

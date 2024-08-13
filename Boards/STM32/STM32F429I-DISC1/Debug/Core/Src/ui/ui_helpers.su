@@ -1,6 +1,6 @@
-C:/Users/hangm/Desktop/LVGL_429/lvgl/src/core/lv_obj_style_gen.h:505:24:lv_obj_get_style_opa	24	static
-C:/Users/hangm/Desktop/LVGL_429/lvgl/src/widgets/slider/lv_slider.h:82:20:lv_slider_set_value	24	static
-C:/Users/hangm/Desktop/LVGL_429/lvgl/src/widgets/slider/lv_slider.h:128:23:lv_slider_get_value	16	static
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lvgl/src/core/lv_obj_style_gen.h:505:24:lv_obj_get_style_opa	24	static
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lvgl/src/widgets/slider/lv_slider.h:82:20:lv_slider_set_value	24	static
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lvgl/src/widgets/slider/lv_slider.h:128:23:lv_slider_get_value	16	static
 ../Core/Src/ui/ui_helpers.c:8:6:_ui_bar_set_property	24	static
 ../Core/Src/ui/ui_helpers.c:14:6:_ui_basic_set_property	24	static
 ../Core/Src/ui/ui_helpers.c:23:6:_ui_dropdown_set_property	24	static

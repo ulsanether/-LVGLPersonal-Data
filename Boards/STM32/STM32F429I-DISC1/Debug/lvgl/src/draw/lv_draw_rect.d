@@ -1,7 +1,7 @@
 lvgl/src/draw/lv_draw_rect.o: ../lvgl/src/draw/lv_draw_rect.c \
  ../lvgl/src/draw/lv_draw.h ../lvgl/src/draw/../lv_conf_internal.h \
  ../lvgl/src/draw/../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/draw/../misc/lv_style.h \
  ../lvgl/src/draw/../misc/../font/lv_font.h \
  ../lvgl/src/draw/../misc/../font/../lv_conf_internal.h \
@@ -36,7 +36,7 @@ lvgl/src/draw/lv_draw_rect.o: ../lvgl/src/draw/lv_draw_rect.c \
 ../lvgl/src/draw/lv_draw.h:
 ../lvgl/src/draw/../lv_conf_internal.h:
 ../lvgl/src/draw/../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/draw/../misc/lv_style.h:
 ../lvgl/src/draw/../misc/../font/lv_font.h:
 ../lvgl/src/draw/../misc/../font/../lv_conf_internal.h:

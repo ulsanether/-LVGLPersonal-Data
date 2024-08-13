@@ -2,7 +2,7 @@ lvgl/src/draw/sw/lv_draw_sw.o: ../lvgl/src/draw/sw/lv_draw_sw.c \
  ../lvgl/src/draw/sw/../lv_draw.h \
  ../lvgl/src/draw/sw/../../lv_conf_internal.h \
  ../lvgl/src/draw/sw/../../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/draw/sw/../../misc/lv_style.h \
  ../lvgl/src/draw/sw/../../misc/../font/lv_font.h \
  ../lvgl/src/draw/sw/../../misc/../font/../lv_conf_internal.h \
@@ -69,7 +69,7 @@ lvgl/src/draw/sw/lv_draw_sw.o: ../lvgl/src/draw/sw/lv_draw_sw.c \
 ../lvgl/src/draw/sw/../lv_draw.h:
 ../lvgl/src/draw/sw/../../lv_conf_internal.h:
 ../lvgl/src/draw/sw/../../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/draw/sw/../../misc/lv_style.h:
 ../lvgl/src/draw/sw/../../misc/../font/lv_font.h:
 ../lvgl/src/draw/sw/../../misc/../font/../lv_conf_internal.h:

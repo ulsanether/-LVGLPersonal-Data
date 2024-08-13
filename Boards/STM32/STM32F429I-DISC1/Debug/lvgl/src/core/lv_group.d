@@ -1,7 +1,7 @@
 lvgl/src/core/lv_group.o: ../lvgl/src/core/lv_group.c \
  ../lvgl/src/core/lv_group.h ../lvgl/src/core/../lv_conf_internal.h \
  ../lvgl/src/core/../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/core/../misc/lv_ll.h ../lvgl/src/core/../misc/lv_types.h \
  ../lvgl/src/core/../misc/lv_gc.h \
  ../lvgl/src/core/../misc/../lv_conf_internal.h \
@@ -98,7 +98,7 @@ lvgl/src/core/lv_group.o: ../lvgl/src/core/lv_group.c \
 ../lvgl/src/core/lv_group.h:
 ../lvgl/src/core/../lv_conf_internal.h:
 ../lvgl/src/core/../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/core/../misc/lv_ll.h:
 ../lvgl/src/core/../misc/lv_types.h:
 ../lvgl/src/core/../misc/lv_gc.h:

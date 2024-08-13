@@ -4,7 +4,7 @@ lvgl/src/themes/basic/lv_theme_basic.o: \
  ../lvgl/src/themes/basic/../../../src/misc/lv_log.h \
  ../lvgl/src/themes/basic/../../../src/misc/../lv_conf_internal.h \
  ../lvgl/src/themes/basic/../../../src/misc/../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/themes/basic/../../../src/misc/lv_types.h \
  ../lvgl/src/themes/basic/../../../src/misc/lv_timer.h \
  ../lvgl/src/themes/basic/../../../src/misc/../hal/lv_hal_tick.h \
@@ -259,7 +259,7 @@ lvgl/src/themes/basic/lv_theme_basic.o: \
 ../lvgl/src/themes/basic/../../../src/misc/lv_log.h:
 ../lvgl/src/themes/basic/../../../src/misc/../lv_conf_internal.h:
 ../lvgl/src/themes/basic/../../../src/misc/../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/themes/basic/../../../src/misc/lv_types.h:
 ../lvgl/src/themes/basic/../../../src/misc/lv_timer.h:
 ../lvgl/src/themes/basic/../../../src/misc/../hal/lv_hal_tick.h:

@@ -5,7 +5,7 @@ lvgl/src/widgets/spinbox/lv_spinbox.o: \
  ../lvgl/src/widgets/spinbox/../textarea/../label/lv_label.h \
  ../lvgl/src/widgets/spinbox/../textarea/../label/../../lv_conf_internal.h \
  ../lvgl/src/widgets/spinbox/../textarea/../label/../../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/widgets/spinbox/../textarea/../label/../../core/lv_obj.h \
  ../lvgl/src/widgets/spinbox/../textarea/../label/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/spinbox/../textarea/../label/../../core/../misc/lv_style.h \
@@ -100,7 +100,7 @@ lvgl/src/widgets/spinbox/lv_spinbox.o: \
 ../lvgl/src/widgets/spinbox/../textarea/../label/lv_label.h:
 ../lvgl/src/widgets/spinbox/../textarea/../label/../../lv_conf_internal.h:
 ../lvgl/src/widgets/spinbox/../textarea/../label/../../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/widgets/spinbox/../textarea/../label/../../core/lv_obj.h:
 ../lvgl/src/widgets/spinbox/../textarea/../label/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/spinbox/../textarea/../label/../../core/../misc/lv_style.h:

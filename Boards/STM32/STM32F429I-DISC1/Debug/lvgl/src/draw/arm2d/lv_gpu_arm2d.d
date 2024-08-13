@@ -3,7 +3,7 @@ lvgl/src/draw/arm2d/lv_gpu_arm2d.o: ../lvgl/src/draw/arm2d/lv_gpu_arm2d.c \
  ../lvgl/src/draw/arm2d/../../misc/lv_color.h \
  ../lvgl/src/draw/arm2d/../../misc/../lv_conf_internal.h \
  ../lvgl/src/draw/arm2d/../../misc/../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/draw/arm2d/../../misc/lv_assert.h \
  ../lvgl/src/draw/arm2d/../../misc/lv_log.h \
  ../lvgl/src/draw/arm2d/../../misc/lv_types.h \
@@ -98,7 +98,7 @@ lvgl/src/draw/arm2d/lv_gpu_arm2d.o: ../lvgl/src/draw/arm2d/lv_gpu_arm2d.c \
 ../lvgl/src/draw/arm2d/../../misc/lv_color.h:
 ../lvgl/src/draw/arm2d/../../misc/../lv_conf_internal.h:
 ../lvgl/src/draw/arm2d/../../misc/../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/draw/arm2d/../../misc/lv_assert.h:
 ../lvgl/src/draw/arm2d/../../misc/lv_log.h:
 ../lvgl/src/draw/arm2d/../../misc/lv_types.h:

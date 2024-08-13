@@ -4,7 +4,7 @@ lvgl/src/widgets/slider/lv_slider.o: \
  ../lvgl/src/widgets/slider/../bar/lv_bar.h \
  ../lvgl/src/widgets/slider/../bar/../../lv_conf_internal.h \
  ../lvgl/src/widgets/slider/../bar/../../lv_conf_kconfig.h \
- C:/Users/hangm/Desktop/LVGL_429/lv_conf.h \
+ C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h \
  ../lvgl/src/widgets/slider/../bar/../../core/lv_obj.h \
  ../lvgl/src/widgets/slider/../bar/../../core/../lv_conf_internal.h \
  ../lvgl/src/widgets/slider/../bar/../../core/../misc/lv_style.h \
@@ -114,7 +114,7 @@ lvgl/src/widgets/slider/lv_slider.o: \
 ../lvgl/src/widgets/slider/../bar/lv_bar.h:
 ../lvgl/src/widgets/slider/../bar/../../lv_conf_internal.h:
 ../lvgl/src/widgets/slider/../bar/../../lv_conf_kconfig.h:
-C:/Users/hangm/Desktop/LVGL_429/lv_conf.h:
+C:/Users/hangm/Documents/GitHub/-LVGLPersonal-Data/Boards/STM32/STM32F429I-DISC1/lv_conf.h:
 ../lvgl/src/widgets/slider/../bar/../../core/lv_obj.h:
 ../lvgl/src/widgets/slider/../bar/../../core/../lv_conf_internal.h:
 ../lvgl/src/widgets/slider/../bar/../../core/../misc/lv_style.h:

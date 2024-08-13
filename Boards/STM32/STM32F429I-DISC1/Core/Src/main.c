@@ -91,7 +91,7 @@ int main(void)
   lv_init();
   tft_init();
   touchpad_init();
-
+  ui_init();
 //	lv_example_label_1();
 //  lv_example_calendar_1();
 //  lv_example_slider_1();
